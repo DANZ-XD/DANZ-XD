@@ -17,3 +17,4 @@ Click on [HERE](https://f-droid.org/repo/com.termux_117.apk), To Download It.
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/DANZ-XD)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6281327765366)
 #
+<img src=”https://www.pinterest.de/pin/814518282595644661/”>
