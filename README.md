@@ -1,4 +1,4 @@
-## Hallo Tod 👋
+## Hallo Tod👋
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -17,4 +17,4 @@ Click on [HERE](https://f-droid.org/repo/com.termux_117.apk), To Download It.
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/DANZ-XD)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6281327765366)
 #
-<img src=”https://www.pinterest.de/pin/814518282595644661/”>
+
